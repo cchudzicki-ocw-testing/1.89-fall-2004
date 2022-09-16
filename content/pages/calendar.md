@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the topics and the description of the 23 lectures
+  covered in the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
